@@ -10,3 +10,5 @@ MARTHOT-SANTANIELLO/WANNAZ forth.: Abbreviations in Greek documentary papyri: a 
 1. the script "fromDukeNlp2parquet.ipynb" explains how the Duke-NLP dataset was preprocessed to fit the paper's needs
 
 2. the script "AbbreviationsInGreekDocumentaryPapyri.ipynb" is a digital extension of the paper and follows the paper's structure
+
+3. the streamlit app hosted here: https://huggingface.co/spaces/AudricWannaz/AbbreviationsGreekDocumentaryPapyri is a more user friendly version of 2.
